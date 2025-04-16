@@ -4,13 +4,13 @@
   
 - GitHub profilimde, üzerinde çalıştığım projeleri ve öğrenme sürecimde edindiğim bilgileri paylaşıyorum.
 
--  Özellikle "Html,Css,Js,React,React-Native" konularında deneyim sahibiyim ve açık kaynak projelere katkıda bulunmayı seviyorum.
+-  Özellikle **Html,Css,Js,React,React-Native** konularında deneyim sahibiyim ve açık kaynak projelere katkıda bulunmayı seviyorum.
   
 - 🌱 Kod yazarken yeni şeyler öğrenmekten ve bu bilgileri toplulukla paylaşmaktan büyük keyif alıyorum. 
 
-- 💬 Bana "Html,Css,Js" konularında sorular sorabilirisniz. **html,css,react**
+- 💬 Bana **Html,Css,Js** konularında sorular sorabilirisniz. 
 
-- 📫 Bana "sema73457@gmail.com"adresinden ulaşabilirsiniz. **sema73457@gmail.com**
+- 📫 Bana **sema73457@gmail.com** adresinden ulaşabilirsiniz. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
