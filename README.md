@@ -1,5 +1,12 @@
 <h1 align="center">merhaba👋, Ben Sema</h1>
-- 🌱 Kod yazarken yeni şeyler öğrenmekten ve bu bilgileri toplulukla paylaşmaktan büyük keyif alıyorum. **React,js**
+
+- Yazılım geliştirme alanında istekli bir geliştiriciyim.
+  
+- GitHub profilimde, üzerinde çalıştığım projeleri ve öğrenme sürecimde edindiğim bilgileri paylaşıyorum.
+
+-  Özellikle "Html,Css,Js,React,React-Native" konularında deneyim sahibiyim ve açık kaynak projelere katkıda bulunmayı seviyorum.
+  
+- 🌱 Kod yazarken yeni şeyler öğrenmekten ve bu bilgileri toplulukla paylaşmaktan büyük keyif alıyorum. 
 
 - 💬 Bana "Html,Css,Js" konularında sorular sorabilirisniz. **html,css,react**
 
